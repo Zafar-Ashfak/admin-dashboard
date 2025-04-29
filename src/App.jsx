@@ -1,9 +1,9 @@
 // Import Packages
 import React from "react";
-
+import { Routes, Route } from "react-router-dom";
 // Import Components
 import Sidebar  from "./components/common/Sidebar";
-
+import OverviewPage from "./pages/OverviewPage";
 
 function App() {
   return (
@@ -16,6 +16,9 @@ function App() {
       </div>
 
       <Sidebar />
+      <Routes>
+        <Route path="/" element={<OverviewPage />} />
+      </Routes>
     </div>
   );
 }
