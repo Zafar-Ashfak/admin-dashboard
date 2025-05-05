@@ -26,7 +26,7 @@ function CustomerSegmentation() {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.6 }}>
-      <h2 className="text-lg font-medium mb-4 text-gray-100">
+      <h2 className="text-xl font-medium mb-4 text-gray-100">
         Customer Segmentation
       </h2>
       <div style={{ width: "100%", height: 300 }}>
