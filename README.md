@@ -6,6 +6,6 @@
  <img src="./src/assets/App_Screenshot.png" width="100%" />
 <br/>
 <h2> Tech Stack</h2>
-Frontend: React.js, Tailwind CSS, React-Router-DOM, Framer-Motion and Lucide-React
+Frontend: React.js, Tailwind CSS, React-Router-DOM, Framer-Motion, Recharts and Lucide-React
 <br/>
 Tools & Platforms: Git, GitHub, VS Code, Figma
